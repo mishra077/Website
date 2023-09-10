@@ -1,3 +1,4 @@
+/* eslint no-use-before-define: 0 */  // --> OFF
 "use client";
 import React, { useState, useTransition } from 'react'
 import Image from 'next/image';

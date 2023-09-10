@@ -68,17 +68,17 @@ const AboutSection = () => {
                 </h2>
                 <p className="text-base lg:text-lg">
 
-                    I'm a computer scientist with a profound passion for machine learning 
+                    I&apos;m a computer scientist with a profound passion for machine learning 
                     and artificial intelligence. My journey through academia, including a 
-                    Master's degree in Computer Science, has equipped me with a diverse 
+                    Master&apos;s degree in Computer Science, has equipped me with a diverse 
                     skill set and a deep appreciation for technology. I specialize in 
                     computer vision, deep learning, image processing, and natural language 
                     processing, harnessing the power of Convolutional Neural Networks, 
-                    Generative Adversarial Networks, and Transformers. I'm well-versed in 
+                    Generative Adversarial Networks, and Transformers. I&apos;m well-versed in 
                     a variety of programming languages, including Python, C++, and C, 
                     and have mastered frameworks such as TensorFlow, PyTorch, OpenCV, 
                     NumPy, Sklearn, NLTK, and Pandas. From optimizing algorithms to conducting 
-                    pioneering research, I've consistently pushed the boundaries of what's 
+                    pioneering research, I&apos;ve consistently pushed the boundaries of what&apos;s 
                     possible in tech. My commitment to making AI accessible to all drives me 
                     to create innovative, open-source solutions.
                 </p>
